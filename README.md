@@ -1,2 +1,0 @@
-# Email-GUI-Applicatiopn
-this is a tkinter GUI which takes input of users email address and password to login and send mails to the recepient's email address . It can send mails which consists of a subject , body and attachments from your device .  before sending the mail we need to turn on ( Less secure App Setting ) . this can be done by clicking on the button in the gui or also manually by signing in to your account and navigating through your setting . The Exception Hadeling when mandatory fields are left blank and when the input is invalid are covered as well .
